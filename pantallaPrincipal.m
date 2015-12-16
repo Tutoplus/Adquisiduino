@@ -1468,8 +1468,6 @@ if capturandoDatos == true
     
     set(handles.muestrasEtiqueta, 'BackgroundColor',[0.31 0.31 0.31]);
     set(handles.numeroMuestras, 'BackgroundColor',[0.31 0.31 0.31]);
-    set(handles.separador1, 'BackgroundColor',[0.31 0.31 0.31]);
-    set(handles.separador2, 'BackgroundColor',[0.31 0.31 0.31]);
     set(handles.etiquetaModelo, 'BackgroundColor',[0.31 0.31 0.31]);
     set(handles.modeloArduino, 'BackgroundColor',[0.31 0.31 0.31]);
     
@@ -1520,8 +1518,6 @@ elseif capturandoDatos == false
     set(handles.valS5, 'BackgroundColor',[0 0.5 0]);
     set(handles.muestrasEtiqueta, 'BackgroundColor',[0 0.5 0]);
     set(handles.numeroMuestras, 'BackgroundColor',[0 0.5 0]);
-    set(handles.separador1, 'BackgroundColor',[0 0.5 0]);
-    set(handles.separador2, 'BackgroundColor',[0 0.5 0]);
     set(handles.etiquetaModelo, 'BackgroundColor',[0 0.5 0]);
     set(handles.modeloArduino, 'BackgroundColor',[0 0.5 0]);
     
