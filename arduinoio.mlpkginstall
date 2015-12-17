@@ -13,12 +13,12 @@ Copyright 2014 The MathWorks, Inc.
   <PackageInfo version="1.0">
     <SignpostData>
        <Repository>MathWorks</Repository>
-       <Name>Arduino</Name>
-       <BaseProduct>Simulink</BaseProduct>
-       <FullName>Simulink Support Package for Arduino Hardware</FullName>
-       <BaseCode>ARDUINO</BaseCode>
+       <Name>Arduino I/O</Name>
+       <BaseProduct>MATLAB</BaseProduct>
+       <FullName>MATLAB Support Package for Arduino Hardware</FullName>
+       <BaseCode>ML_ARDUINO</BaseCode>
     </SignpostData>
-    <Signature>B318582EC747FA28E2A9A6AF78B28B6D</Signature>
+    <Signature>F60F02AA225001EE7506924123981AB6</Signature>
   </PackageInfo>
 
 </MWSignpost>

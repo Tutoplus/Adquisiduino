@@ -1978,5 +1978,5 @@ run anadirSensores;
 % --- Executes on button press in instalarPaqueteBoton.
 function instalarPaqueteBoton_Callback(hObject, eventdata, handles)
 
-uiopen('arduino.mlpkginstall',1);
+uiopen('arduinoio.mlpkginstall',1);
 close;
