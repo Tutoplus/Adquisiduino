@@ -1,6 +1,5 @@
 # Adquisiduino
 Adquisición de Datos en tiempo real con Arduino y MATLAB
-
 ## ¿Qué es Adquisiduino?
 Adqusiduino es un software con interfaz gráfica dentro de MATLAB orientado exclusivamente a la adquisición de datos de sensores analógicos compatibles con Arduino u otras placas basadas en ésta. Capture datos de hasta 5 sensores analógicos en simultáneo y exporte los datos a una hoja de cálculo de Microsoft Excel.
 
@@ -12,7 +11,19 @@ Adquisiduino le permite añadir, configurar y guardar sus propios sensores anal�
 <p align="center">
     <img src="https://3a091ec4752eec74d6c0536c4567058567c041b4-www.googledrive.com/host/0B0DSdioGBbxZWGxELVFGUW1LNnc">
 </p>
-
+###Configure la representación gráfica
+Adquisiduino, le permite configurar la frecuencia con la que los datos provenientes de arduino se representan en el área gráfica. Además, también es posible establecer un dominio visible de los datos en un período de tiempo. Ésta herramienta le permitirá escoger un período de muestreo apropiado.
 
 ## Dependencias
-+ Paquete de soporte de MATLAB para Arduino
+ 1. Paquete de soporte de MATLAB para Arduino: [Descargar][1]
+
+  [1]: http://www.mathworks.com/hardware-support/arduino-matlab.html?refresh=true
+## Ejecución
+
+ 1. Descargue el **código de Adquisiduino** y descomprima el contenido en una carpeta en el PC.
+ 2. En **MATLAB**, elija como carpeta de trabajo el directorio creado anteriormente.
+ 3. En el **Command Windows** de MATLAB, tipee el siguiente comando:
+`ejecutar`
+
+##Compatibilidad
+Por ahora, Adquisiduino solo está soportado en **MATLAB en Microsoft Windows**.
