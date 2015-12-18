@@ -15,7 +15,7 @@ Adquisiduino le permite añadir, configurar y guardar sus propios sensores anal�
 Adquisiduino, le permite configurar la frecuencia con la que los datos provenientes de arduino se representan en el área gráfica. Además, también es posible establecer un dominio visible de los datos en un período de tiempo. Ésta herramienta le permitirá escoger un período de muestreo apropiado.
 
 ## Dependencias
- 1. Paquete de soporte de MATLAB para Arduino: [Descargar][1]
+ 1. Paquete de soporte de hardware Arduino para MATLAB: [Descargar aquí][1]
 
   [1]: http://www.mathworks.com/hardware-support/arduino-matlab.html?refresh=true
 ## Ejecución
